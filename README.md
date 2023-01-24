@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+Hello. My name is Daniel Hawkins.
 
 ## UX Team Project
 
