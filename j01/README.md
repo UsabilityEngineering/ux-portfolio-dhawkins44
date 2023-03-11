@@ -6,7 +6,6 @@ Like so many other NFL football fans during the months of September through Febr
 
 My goal is to enter 20 entries into a contest called “NBA $400 Dime Time” and draft a unique team of players for each of those entries. I have included a screenshot below where I have circled the entry details in blue to show you some relevant information to this demonstration:
 
-
 <img src="../assets/contest.png" width="750">
 
 -	523/4,756 shows that there are a total of 4,756 entries allowed in this contest and 523 of them have been reserved.
@@ -15,7 +14,7 @@ My goal is to enter 20 entries into a contest called “NBA $400 Dime Time” an
 
 DraftKings allows you to “Reserve Seats” in advance without having drafted the teams for those entries. This guarantees you get those spots, but you must have your team drafted before the start of the first game of the contest. After I have reserved the spots, I can click on the contest and see all my reserved spots.
 
-![contest to entries](../assets/contesttoentries.png)
+<img src="../assets/contesttoentries.png" width="750">
 
 Now that I have reserved the spots, I would like to draft my teams for the entries. I click on one of the red instances and I get the below screen to draft my team. You can see the drafted team on the rightmost image. When I am done with drafting the team, I press “Save” in the top, right-hand corner and it takes me back to the screen with all my entries. Notice in the flowchart below, that when I am taken back to my list of entries after drafting my team, there is no indication that I have drafted the team for that entry. How am I supposed to know which entries I have already drafted? This gets especially difficult when you have drafted 10 or so entries. You end up having to scroll and open every entry until you’ve reached one that has not been drafted. This takes away any **efficiency** of entering in multiple lineups for the same contest because it takes so long to figure out which entry has been drafted or not. This could easily be solved with some kind of indicator like a checkmark, or color change to show that the entries have been drafted.
 
