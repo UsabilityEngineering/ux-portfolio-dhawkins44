@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Fantasy Sports at Scale](j01/)
+[Daily Fantasy Sports at Scale: A DraftKings Experience](j01/)
