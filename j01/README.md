@@ -26,4 +26,4 @@ What if I accidentally enter the maximum allowed entries for a contest I did not
 
 I have one last scenario I would like to go over. Let’s assume that there is a player that has a great matchup against another team, and I want to play them in all my lineups. What happens if that player ends up not playing for some reason (injury, illness, personal reasons, etc.)? What if that decision is made 15 minutes before the game starts? You can see an example of this below; Kevin Durant is in all my lineups, but he is marked out. I will need to switch that player out of my lineup for another player. That should be easy, right? Wrong! You must click into each lineup and manually change the player out for another. This puts the safety of DraftKings’ users at risk to lose money on a contest with entries they did not have a chance to correct due to a design flaw. This could easily be fixed by providing an option to substitute a player from all or some of your lineups using multiple selection.
 
-![withdraw](../assets/playerout.png)
+![playerout](../assets/playerout.png)
