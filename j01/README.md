@@ -13,3 +13,8 @@ My goal is to enter 20 entries into a contest called “NBA $400 Dime Time” an
 -	M20 in the box is saying that there is a maximum of 20 entries allowed in the contest. 
 
 DraftKings allows you to “Reserve Seats” in advance without having drafted the teams for those entries. This guarantees you get those spots, but you must have your team drafted before the start of the first game of the contest. After I have reserved the spots, I can click on the contest and see all my reserved spots.
+
+![contesttoentries](../assets/contesttoentries.png)
+
+Now that I have reserved the spots, I would like to draft my teams for the entries. I click on one of the red instances and I get the below screen to draft my team. You can see the drafted team on the rightmost image. When I am done with drafting the team, I press “Save” in the top, right-hand corner and it takes me back to the screen with all my entries. Notice in the flowchart below, that when I am taken back to my list of entries after drafting my team, there is no indication that I have drafted the team for that entry. How am I supposed to know which entries I have already drafted? This gets especially difficult when you have drafted 10 or so entries. You end up having to scroll and open every entry until you’ve reached one that has not been drafted. This takes away any efficiency of entering in multiple lineups for the same contest because it takes so long to figure out which entry has been drafted or not. This could easily be solved with some kind of indicator like a checkmark, or color change to show that the entries have been drafted.
+
