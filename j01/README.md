@@ -2,7 +2,7 @@
 
 ---
 
-Like so many other NFL football fans during the months of September through February, I love to participate in fantasy football. In fantasy sports, participants create a virtual team of real-life athletes and compete against other teams in a league or contest based on the statistical performance of those players in actual professional sports games. There are two ways that fantasy sports are typically played: traditional and daily. Daily fantasy differs from traditional fantasy in that it typically lasts only one day to one week, rather than the entire season. For the purposes of this user experience journal, I will focus on daily fantasy and the use of the DraftKings iPhone mobile application to play. I mostly play fantasy during the NFL season. However, since the NFL season is over for the year, I am going to enter into an NBA contest to demonstrate the experience.
+Like so many other NFL football fans during the months of September through February, I love to participate in fantasy football. In fantasy sports, participants create a virtual team of real-life athletes and compete against other teams in a league or contest based on the statistical performance of those players in actual professional sports games. There are two ways that fantasy sports are typically played: traditional and daily. Daily fantasy differs from traditional fantasy in that it typically lasts only one day to one week, rather than the entire season. For the purposes of this user experience journal, I will focus on daily fantasy and the use of the DraftKings iPhone mobile application. I mostly play fantasy during the NFL season. However, since the NFL season is over for the year, I am going to enter into an NBA contest to demonstrate the experience.
 
 My goal is to enter 20 entries into a contest called “NBA $400 Dime Time” and draft a unique team of players for each of those entries. I have included a screenshot below where I have circled the entry details in blue to show you some relevant information to this demonstration:
 
@@ -12,7 +12,7 @@ My goal is to enter 20 entries into a contest called “NBA $400 Dime Time” an
 -	ENTRIES (0/20) shows that I am allowed 20 entries in this contest, and I have not yet entered any lineups or reserved spots.
 -	M20 in the box is saying that there is a maximum of 20 entries allowed in the contest. 
 
-DraftKings allows you to “Reserve Seats” in advance without having drafted the teams for those entries. This guarantees you get those spots, but you must have your team drafted before the start of the first game of the contest. After I have reserved the spots, I can click on the contest and see all my reserved spots.
+DraftKings allows you to “reserve seats” in advance without having drafted the teams for those entries. This guarantees you get those spots, but you must have your team drafted before the start of the first game of the contest. After I have reserved the spots, I can click on the contest and see all my reserved spots.
 
 <img src="../assets/contesttoentries.png" width="750">
 
@@ -24,7 +24,7 @@ What if I accidentally enter the maximum allowed entries for a contest I did not
 
 ![withdraw](../assets/withdraw.png)
 
-I have one last scenario I would like to go over. Let’s assume that there is a player that has a great matchup against another team, and I want to play them in all my lineups. What happens if that player ends up not playing for some reason (injury, illness, personal reasons, etc.)? What if that decision is made 15 minutes before the game starts? You can see an example of this below: Kevin Durant is in all my lineups, but he is marked out. I will need to switch Durant out of my lineup for another player. That should be easy, right? Wrong! You must click into each lineup and manually change the player out for another. This puts the **safety** of DraftKings’ users at risk to lose money on a contest with entries they did not have a chance to correct due to a design flaw. This could easily be fixed by providing an option to substitute a player from all or some of your lineups using multiple selection.
+I have one last scenario I would like to go over: Let’s assume that there is a player that has a great matchup against another team, and I want to play them in all my lineups. What happens if that player ends up not playing for some reason (injury, illness, personal reasons, etc.)? What if that decision is made 15 minutes before the game starts? You can see an example of this below: Kevin Durant is in all my lineups, but he is marked out. I will need to switch Durant out of my lineup for another player. That should be easy, right? Wrong! You must click into each lineup and manually change the player out for another. This puts the **safety** of DraftKings’ users at risk to lose money on a contest with entries they did not have a chance to correct due to a design flaw. This could easily be fixed by providing an option to substitute a player from all or some of your lineups using multiple selection.
 
 
 <img src="../assets/playerout.PNG" width="250">
