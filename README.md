@@ -6,7 +6,7 @@ Hello. My name is Daniel Hawkins. I am a transfer student who is in my first sem
 
 ## UX Team Project
 
-Coming soon.
+[Neighborhood-Deals](https://usabilityengineering.github.io/NeighborhoodDeals/)
 
 ## UX Journal
 
